@@ -35,7 +35,7 @@ Le système utilise une architecture orientée événements pour gérer les donn
 ### 1. Cloner le dépôt
 
 ```bash
-git clone <url-du-depot>
+git clone https://github.com/ccaglaa/opsci-projet-CR.git
 cd opsci-project
 ```
 
